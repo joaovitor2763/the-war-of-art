@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "next": "^14.1.4",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.4.3"
+  },
+  "name": "Implementing-with-lumentis",
+  "description": "PrimarySource appears to be the full text of a book titled \"The War of Art\" by Steven Pressfield. The book discusses the creative process and overcoming inner obstacles to achieve artistic goals. It seems to be written as a self-help style guide for aspiring artists, writers, entrepreneurs and anyone pursuing creative endeavors.",
+  "version": "0.0.1",
+  "scripts": {
+    "devstart": "next dev -p 5656 & node start.js",
+    "dev": "next dev -p 5656",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Writing",
+    "Creativity",
+    "Resistance",
+    "Professionalism",
+    "Art",
+    "Muse",
+    "Ego",
+    "Self",
+    "Hierarchy",
+    "Territory"
+  ]
+}
